@@ -36,7 +36,7 @@ export default function MessageRow(props) {
         borderLeftWidth: arrowSize,
         borderBottomWidth: arrowSize,
         borderLeftColor: color,
-        marginTop: (avatarSource ? avatarSize : 30) - 2*borderRadius
+        marginTop: (avatarSource ? avatarSize : 30) - 2*borderRadius - 4
     }
     if (isFromCurrentUser) {
         rowStyle = Styles.reverseRow
@@ -48,6 +48,7 @@ export default function MessageRow(props) {
         arrowStyle.transform = [
             {rotateY: '180deg'}
         ]
+        arrowStyle.marginRight = -1
     }
     const contentViewStyle = {
         borderRadius,
