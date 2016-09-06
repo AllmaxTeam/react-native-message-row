@@ -1,6 +1,6 @@
 ## react-native-message-row
 
-![screen](https://raw.githubusercontent.com/AllmaxTeam/react-native-message-row/master/message-row.png)
+![screen](https://raw.githubusercontent.com/AllmaxTeam/react-native-message-row/master/Screens/message-row.png)
 
 ## Usage
 ```javascript
