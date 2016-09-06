@@ -1,7 +1,5 @@
 ## react-native-message-row
 
-## Description
-
 Component for displayng chat messages. Recommended using in ListView.
 
 ![screen](https://raw.githubusercontent.com/AllmaxTeam/react-native-message-row/master/Screens/message-row.png)
