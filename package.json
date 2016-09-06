@@ -1,0 +1,26 @@
+{
+  "name": "react-native-message-row",
+  "version": "1.0.0",
+  "description": "Component for displayng chat messages. Recommended using in ListView.",
+  "main": "MessageRow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllmaxTeam/react-native-message-row.git"
+  },
+  "keywords": [
+    "chat",
+    "message",
+    "bubble",
+    "row",
+    "react-native"
+  ],
+  "author": "Dmitriy SHishkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllmaxTeam/react-native-message-row/issues"
+  },
+  "homepage": "https://github.com/AllmaxTeam/react-native-message-row#readme"
+}
